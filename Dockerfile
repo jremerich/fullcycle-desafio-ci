@@ -1,4 +1,4 @@
-FROM golang
+FROM scratch
 
 COPY ./src/soma/soma ./
 
